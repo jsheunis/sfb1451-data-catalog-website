@@ -1,0 +1,185 @@
+{
+    "dataset_id": "37900fa9-2d95-43b4-b223-51ff6ca0da70",
+    "dataset_version": "afc8520baf7c502f10e56810b31ee17c5c4ac80e",
+    "type": "dataset",
+    "children": [],
+    "name": "Transdural recordings of the primary motor cortex in the behaving monkey",
+    "short_name": "Transdural recordings of the primary motor cortex in the behaving monkey",
+    "description": "This dataset contains extracellular recordings (using a multielectrode microdrive) from seven independently movable electrodes in the primary motor cortex (M1) of a single monkey. The monkey performed a delayed center-out reaching task which involved three different task conditions that differed in the amount of initial target information available to the monkey. Online spike sorting resulted in up to seven simultaneously recorded single-unit spike trains. On each recording day, all three conditions were presented to the monkey so that the responses of individual neurons can be compared across conditions. Further information about this dataset and its contents and methods is provided in the accompanying academic publication.",
+    "doi": "",
+    "url": "https://github.com/jsheunis/Transdural-recordings-M1-monkey",
+    "license": {},
+    "authors": [
+        {
+            "@id": "https://schema.datalad.org/person#a@example.com",
+            "@type": "Person",
+            "email": "a@example.com",
+            "name": " Vahid Rostami",
+            "givenName": "Vahid",
+            "familyName": "Rostami",
+            "sameAs": "0000-0002-3851-0220"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#b@example.com",
+            "@type": "Person",
+            "email": "b@example.com",
+            "name": " Thomas Rost",
+            "givenName": "Thomas",
+            "familyName": "Rost"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#c@example.com",
+            "@type": "Person",
+            "email": "c@example.com",
+            "name": " Alexa Riehle",
+            "givenName": "Alexa",
+            "familyName": "Riehle",
+            "sameAs": "0000-0001-5890-3999"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#d@example.com",
+            "@type": "Person",
+            "email": "d@example.com",
+            "name": " Sacha van Albada",
+            "givenName": "Sacha",
+            "familyName": "van Albada",
+            "sameAs": "0000-0003-0682-4855"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#mnawrot@uni-koeln.de",
+            "@type": "Person",
+            "email": "mnawrot@uni-koeln.de",
+            "name": " Martin Nawrot",
+            "givenName": "Martin",
+            "familyName": "Nawrot",
+            "sameAs": "0000-0001-6398-6370"
+        }
+    ],
+    "keywords": [
+        "Delayed center-out reaching task",
+        "Monkey",
+        "Transdural electrodes",
+        "Primary motor cortex",
+        "Spike trains",
+        "Spiking attractor model"
+    ],
+    "funding": [
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-SFB 1451 (Project-ID 431549029)",
+            "description": "-"
+        },
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-ZUK 81/1",
+            "description": "Institutional Strategy of the University of Cologne within the German Excellence Initiative"
+        },
+        {
+            "name": "EU Horizon 2020",
+            "identifier": "Grant agreement number 945539 (Human Brain Project SGA3)",
+            "description": "Framework Programme for Research and Innovation"
+        }
+    ],
+    "publications": [
+        {
+            "type": "ScholarlyArticle",
+            "title": "Spiking attractor model of motor cortex explains modulation of neural and behavioral variability by prior target information",
+            "doi": "https://doi.org/10.21203/rs.3.rs-1337724/v1",
+            "datePublished": 2022,
+            "publicationOutlet": "Research Square",
+            "authors": [
+                {
+                    "@id": "https://schema.datalad.org/person#a@example.com",
+                    "@type": "Person",
+                    "email": "a@example.com",
+                    "name": " Vahid Rostami",
+                    "givenName": "Vahid",
+                    "familyName": "Rostami",
+                    "sameAs": "0000-0002-3851-0220"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#b@example.com",
+                    "@type": "Person",
+                    "email": "b@example.com",
+                    "name": " Thomas Rost",
+                    "givenName": "Thomas",
+                    "familyName": "Rost"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#c@example.com",
+                    "@type": "Person",
+                    "email": "c@example.com",
+                    "name": " Alexa Riehle",
+                    "givenName": "Alexa",
+                    "familyName": "Riehle",
+                    "sameAs": "0000-0001-5890-3999"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#d@example.com",
+                    "@type": "Person",
+                    "email": "d@example.com",
+                    "name": " Sacha van Albada",
+                    "givenName": "Sacha",
+                    "familyName": "van Albada",
+                    "sameAs": "0000-0003-0682-4855"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#mnawrot@uni-koeln.de",
+                    "@type": "Person",
+                    "email": "mnawrot@uni-koeln.de",
+                    "name": " Martin Nawrot",
+                    "givenName": "Martin",
+                    "familyName": "Nawrot",
+                    "sameAs": "0000-0001-6398-6370"
+                }
+            ]
+        }
+    ],
+    "additional_display": [
+        {
+            "name": "CRC1451",
+            "icon": "fas fa-microscope",
+            "content": {
+                "Species": "Monkey",
+                "Paradigm": "Delayed center-out reaching task",
+                "Condition": "n/a",
+                "Data modalities": "Transdural electrode recordings",
+                "Model": "Spiking attractor model",
+                "Subjects": "1"
+            }
+        }
+    ],
+    "top_display": [
+        {
+            "name": "Species",
+            "value": "Monkey"
+        },
+        {
+            "name": "Paradigm",
+            "value": "Delayed reaching task"
+        },
+        {
+            "name": "Data modalities",
+            "value": "Transdural recordings"
+        },
+        {
+            "name": "Model",
+            "value": "Spiking attractor model"
+        },
+        {
+            "name": "Subjects",
+            "value": 1
+        }
+    ],
+    "subdatasets": [],
+    "extractors_used": [
+        {
+            "extractor_name": "metalad_studyminimeta",
+            "extractor_version": "0.1",
+            "extraction_parameter": {},
+            "extraction_time": 1653385034.787501,
+            "agent_name": "Stephan Heunis",
+            "agent_email": "s.heunis@fz-juelich.de"
+        }
+    ]
+}

@@ -1,0 +1,680 @@
+{
+    "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+    "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+    "type": "dataset",
+    "children": [
+        {
+            "type": "file",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+            "path": "participants.json",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653384983.512088,
+                    "agent_name": "Stephan Heunis",
+                    "agent_email": "s.heunis@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 504,
+            "name": "participants.json"
+        },
+        {
+            "type": "file",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+            "path": "MANIFEST.TXT",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653384983.51964,
+                    "agent_name": "Stephan Heunis",
+                    "agent_email": "s.heunis@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 13829,
+            "name": "MANIFEST.TXT"
+        },
+        {
+            "type": "file",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+            "path": "participants.tsv",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653384983.524439,
+                    "agent_name": "Stephan Heunis",
+                    "agent_email": "s.heunis@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 782,
+            "name": "participants.tsv"
+        },
+        {
+            "type": "file",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+            "path": "README",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653384983.53285,
+                    "agent_name": "Stephan Heunis",
+                    "agent_email": "s.heunis@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 374,
+            "name": "README"
+        },
+        {
+            "type": "file",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+            "path": "dataset_description.json",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653384983.562528,
+                    "agent_name": "Stephan Heunis",
+                    "agent_email": "s.heunis@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 276,
+            "name": "dataset_description.json"
+        },
+        {
+            "type": "directory",
+            "name": "sub-001",
+            "path": "sub-001",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "Demography",
+            "path": "Demography",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-002",
+            "path": "sub-002",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-003",
+            "path": "sub-003",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-004",
+            "path": "sub-004",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-005",
+            "path": "sub-005",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-006",
+            "path": "sub-006",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-007",
+            "path": "sub-007",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-008",
+            "path": "sub-008",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-009",
+            "path": "sub-009",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-010",
+            "path": "sub-010",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-011",
+            "path": "sub-011",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-012",
+            "path": "sub-012",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-013",
+            "path": "sub-013",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-014",
+            "path": "sub-014",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-015",
+            "path": "sub-015",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-016",
+            "path": "sub-016",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-017",
+            "path": "sub-017",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-018",
+            "path": "sub-018",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-019",
+            "path": "sub-019",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-020",
+            "path": "sub-020",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-021",
+            "path": "sub-021",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-022",
+            "path": "sub-022",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-023",
+            "path": "sub-023",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-024",
+            "path": "sub-024",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-025",
+            "path": "sub-025",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-026",
+            "path": "sub-026",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-027",
+            "path": "sub-027",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-028",
+            "path": "sub-028",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-029",
+            "path": "sub-029",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-030",
+            "path": "sub-030",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-031",
+            "path": "sub-031",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-032",
+            "path": "sub-032",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-033",
+            "path": "sub-033",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-034",
+            "path": "sub-034",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-036",
+            "path": "sub-036",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-035",
+            "path": "sub-035",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-037",
+            "path": "sub-037",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-038",
+            "path": "sub-038",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-039",
+            "path": "sub-039",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-041",
+            "path": "sub-041",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-040",
+            "path": "sub-040",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "directory",
+            "name": "sub-042",
+            "path": "sub-042",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        }
+    ],
+    "name": "Externally Cued Movements",
+    "short_name": "Data for: Stimulus transformation into motor action: dynamic graph analysis reveals a posterior-to-anterior shift in brain network communication of older subjects",
+    "description": "This dataset includes EEG recordings of 18 younger healthy subjects (18-35yrs) and 24 older healthy subjects (60+yrs) while they performed a visually cued finger tapping task. The task includes a visually-cued index finger tapping task and a vision-only control condition.",
+    "doi": "https://doi.org/10.26165/JUELICH-DATA/T1PKNZ",
+    "url": ["https://github.com/jsheunis/Externally-Cued-Movements"],
+    "license": {
+        "name": "CC-BY 4.0 - Attribution",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "authors": [
+        {
+            "@id": "https://schema.datalad.org/person#n.rosjat@fz-juelich.de",
+            "@type": "Person",
+            "email": "n.rosjat@fz-juelich.de",
+            "name": " Nils Rosjat",
+            "givenName": "Nils",
+            "familyName": "Rosjat",
+            "sameAs": "0000-0002-1977-4642"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#b@example.com",
+            "@type": "Person",
+            "email": "b@example.com",
+            "name": " Bin A. Wang",
+            "givenName": "Bin A.",
+            "familyName": "Wang"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#c@example.com",
+            "@type": "Person",
+            "email": "c@example.com",
+            "name": " Liqing Liu",
+            "givenName": "Liqing",
+            "familyName": "Liu"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#d@example.com",
+            "@type": "Person",
+            "email": "d@example.com",
+            "name": " Gereon R. Fink",
+            "givenName": "Gereon R.",
+            "familyName": "Fink",
+            "sameAs": "0000-0002-8230-1856"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#e@example.com",
+            "@type": "Person",
+            "email": "e@example.com",
+            "name": " Silvia Daun",
+            "givenName": "Silvia",
+            "familyName": "Daun",
+            "sameAs": "0000-0001-7342-1015"
+        }
+    ],
+    "keywords": [
+        "Young",
+        "Old",
+        "Human",
+        "EEG",
+        "Finger tapping",
+        "Visual cues",
+        "Vision-only control",
+        "extstim",
+        "subject",
+        "age",
+        "gender",
+        "group"
+    ],
+    "funding": [
+        {
+            "name": "Cologne Emerging Group Initiative",
+            "identifier": "Grant/Award Number CONNECT",
+            "description": "-"
+        },
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "Grant/Award Number DA1953/5-2",
+            "description": "-"
+        },
+        {
+            "name": "Marga und Walter Boll-Stiftung",
+            "identifier": "-",
+            "description": "-"
+        }
+    ],
+    "publications": [
+        {
+            "type": "ScholarlyArticle",
+            "title": "Stimulus transformation into motor action: Dynamic graph analysis reveals a posterior-to-anterior shift in brain network communication of older subjects",
+            "doi": "https://doi.org/10.1002/hbm.25313",
+            "datePublished": 2021,
+            "publicationOutlet": "Human Brain Mapping",
+            "authors": [
+                {
+                    "@id": "https://schema.datalad.org/person#n.rosjat@fz-juelich.de",
+                    "@type": "Person",
+                    "email": "n.rosjat@fz-juelich.de",
+                    "name": " Nils Rosjat",
+                    "givenName": "Nils",
+                    "familyName": "Rosjat",
+                    "sameAs": "0000-0002-1977-4642"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#b@example.com",
+                    "@type": "Person",
+                    "email": "b@example.com",
+                    "name": " Bin A. Wang",
+                    "givenName": "Bin A.",
+                    "familyName": "Wang"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#c@example.com",
+                    "@type": "Person",
+                    "email": "c@example.com",
+                    "name": " Liqing Liu",
+                    "givenName": "Liqing",
+                    "familyName": "Liu"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#d@example.com",
+                    "@type": "Person",
+                    "email": "d@example.com",
+                    "name": " Gereon R. Fink",
+                    "givenName": "Gereon R.",
+                    "familyName": "Fink",
+                    "sameAs": "0000-0002-8230-1856"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#e@example.com",
+                    "@type": "Person",
+                    "email": "e@example.com",
+                    "name": " Silvia Daun",
+                    "givenName": "Silvia",
+                    "familyName": "Daun",
+                    "sameAs": "0000-0001-7342-1015"
+                }
+            ]
+        }
+    ],
+    "subdatasets": [],
+    "extractors_used": [
+        {
+            "extractor_name": "bids_dataset",
+            "extractor_version": "0.0.1",
+            "extraction_parameter": {},
+            "extraction_time": 1653384978.441561,
+            "agent_name": "Stephan Heunis",
+            "agent_email": "s.heunis@fz-juelich.de"
+        }
+    ],
+    "additional_display": [
+        {
+            "name": "BIDS",
+            "icon": "fas fa-brain",
+            "content": {
+                "subject": [
+                    "036",
+                    "009",
+                    "030",
+                    "037",
+                    "001",
+                    "004",
+                    "040",
+                    "026",
+                    "042",
+                    "003",
+                    "019",
+                    "020",
+                    "017",
+                    "018",
+                    "013",
+                    "002",
+                    "024",
+                    "031",
+                    "007",
+                    "010",
+                    "035",
+                    "008",
+                    "028",
+                    "033",
+                    "038",
+                    "034",
+                    "012",
+                    "027",
+                    "021",
+                    "011",
+                    "014",
+                    "041",
+                    "029",
+                    "006",
+                    "022",
+                    "039",
+                    "016",
+                    "015",
+                    "023",
+                    "005",
+                    "032",
+                    "025"
+                ],
+                "task": [
+                    "extstim"
+                ],
+                "suffix": [
+                    "participants",
+                    "events",
+                    "description",
+                    "channels",
+                    "electrodes",
+                    "coordsystem",
+                    "eeg"
+                ],
+                "datatype": [
+                    "eeg"
+                ],
+                "extension": [
+                    ".json",
+                    ".set",
+                    ".tsv",
+                    ".fdt"
+                ]
+            }
+        },
+        {
+            "name": "CRC1451",
+            "icon": "fas fa-microscope",
+            "content": {
+                "Species": "human",
+                "Paradigm": "Finger tapping task",
+                "Condition": "Ageing",
+                "Data modalities": "EEG",
+                "Model": "Dynamic graph analysis",
+                "Subjects": "42"
+            }
+        }
+    ],
+    "top_display": [
+        {
+            "name": "Species",
+            "value": "Human"
+        },
+        {
+            "name": "Paradigm",
+            "value": "Finger tapping task"
+        },
+        {
+            "name": "Condition",
+            "value": "Ageing"
+        },
+        {
+            "name": "Condition",
+            "value": "Ageing"
+        },
+        {
+            "name": "Data modalities",
+            "value": "EEG"
+        },
+        {
+            "name": "Model",
+            "value": "Dynamic graph analysis"
+        },
+        {
+            "name": "Subjects",
+            "value": 42
+        },
+        {
+            "name": "Sessions",
+            "value": 1
+        },
+        {
+            "name": "Tasks",
+            "value": 1
+        },
+        {
+            "name": "Runs",
+            "value": 1
+        }
+    ]
+}

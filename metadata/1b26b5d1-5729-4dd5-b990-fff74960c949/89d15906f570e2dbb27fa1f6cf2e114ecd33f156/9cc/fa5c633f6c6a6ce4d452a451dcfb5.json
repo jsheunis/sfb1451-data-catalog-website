@@ -1,0 +1,353 @@
+{
+    "dataset_id": "1b26b5d1-5729-4dd5-b990-fff74960c949",
+    "dataset_version": "89d15906f570e2dbb27fa1f6cf2e114ecd33f156",
+    "type": "dataset",
+    "children": [
+        {
+            "type": "dataset",
+            "name": "Externally-Cued-Movements",
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa"
+        },
+        {
+            "type": "dataset",
+            "name": "Simulating-SNN-cost-with-GeNN-NEST",
+            "dataset_id": "cfce0015-8a8d-44ab-a746-73ec59e8f177",
+            "dataset_version": "366affdbbfa850fe8210c9fb15c718ccb0f3f34f"
+        },
+        {
+            "type": "dataset",
+            "name": "Transdural-recordings-M1-monkey",
+            "dataset_id": "37900fa9-2d95-43b4-b223-51ff6ca0da70",
+            "dataset_version": "afc8520baf7c502f10e56810b31ee17c5c4ac80e"
+        }
+    ],
+    "name": "CRC1451 - key mechanisms of motor control in health and disease",
+    "short_name": "CRC1451 - key mechanisms of motor control in health and disease",
+    "description": "This is the data catalog of the Collaborative Research Centre 1451 (CRC1451, German: SFB1451) for key mechanisms of motor control in health and disease. This initiative brings together neuroscientists investigating genetic factors, cellular, and synaptic as well as systems/neural network processes underlying motor control in animals and humans, in both health and neuropsychiatric diseases. The CRC1451 aims to provide an integrated and comprehensive view of the neurobiological underpinnings of motor control and its disturbances. To support this effort, the raw, processed, and analyzed data resulting from the involved research studies are cataloged here. This catalog provides a standardized data resource on the neuroscience of motor control, that spans species, paradigms, and data modalities, and is uniformly accessible to modelers. It aims to (1) facilitate data analysis for extracting common activity patterns and mechanisms underlying motor behaviors across species, and (2) promote data-driven computational modeling.",
+    "doi": "",
+    "url": ["https://github.com/jsheunis/sfb1451-data-catalog"],
+    "license": {
+        "name": "[refer to individual datasets]",
+        "url": ""
+    },
+    "authors": [
+        {
+            "@id": "https://schema.datalad.org/person#neurologie-direktor@uk-koeln.de",
+            "@type": "Person",
+            "email": "neurologie-direktor@uk-koeln.de",
+            "name": " Gereon Fink",
+            "givenName": "Gereon",
+            "familyName": "Fink"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#markus.aswendt@uk-koeln.de",
+            "@type": "Person",
+            "email": "markus.aswendt@uk-koeln.de",
+            "name": " Markus Aswendt",
+            "givenName": "Markus",
+            "familyName": "Aswendt"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#juan.baldermann@uk-koeln.de",
+            "@type": "Person",
+            "email": "juan.baldermann@uk-koeln.de",
+            "name": " Juan Carlos Baldermann",
+            "givenName": "Juan Carlos",
+            "familyName": "Baldermann"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#stephan.bender@uk-koeln.de",
+            "@type": "Person",
+            "email": "stephan.bender@uk-koeln.de",
+            "name": " Stephan Bender",
+            "givenName": "Stephan",
+            "familyName": "Bender"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#matteo.bergami@uk-koeln.de",
+            "@type": "Person",
+            "email": "matteo.bergami@uk-koeln.de",
+            "name": " Matteo Bergami",
+            "givenName": "Matteo",
+            "familyName": "Bergami"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#ansgar.bueschges@uni-koeln.de",
+            "@type": "Person",
+            "email": "ansgar.bueschges@uni-koeln.de",
+            "name": " Ansgar B\u00fcschges",
+            "givenName": "Ansgar",
+            "familyName": "B\u00fcschges"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#silvia.daun@uni-koeln.de",
+            "@type": "Person",
+            "email": "silvia.daun@uni-koeln.de",
+            "name": " Silvia Daun",
+            "givenName": "Silvia",
+            "familyName": "Daun",
+            "sameAs": "0000-0001-7342-1015"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#Nuk-Med-Sekretariat@uk-koeln.de",
+            "@type": "Person",
+            "email": "Nuk-Med-Sekretariat@uk-koeln.de",
+            "name": " Alexander Drzezga",
+            "givenName": "Alexander",
+            "familyName": "Drzezga"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#eehrhardt@uni-koeln.de",
+            "@type": "Person",
+            "email": "eehrhardt@uni-koeln.de",
+            "name": " Erika Ehrhardt",
+            "givenName": "Erika",
+            "familyName": "Ehrhardt"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#s.eickhoff@fz-juelich.de",
+            "@type": "Person",
+            "email": "s.eickhoff@fz-juelich.de",
+            "name": " Simon Eickhoff",
+            "givenName": "Simon",
+            "familyName": "Eickhoff"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#graziana.gatto@uk-koeln.de",
+            "@type": "Person",
+            "email": "graziana.gatto@uk-koeln.de",
+            "name": " Graziana Gatto",
+            "givenName": "Graziana",
+            "familyName": "Gatto"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#christian.grefkes@uk-koeln.de",
+            "@type": "Person",
+            "email": "christian.grefkes@uk-koeln.de",
+            "name": " Christian Grefkes",
+            "givenName": "Christian",
+            "familyName": "Grefkes"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#m.hanke@fz-juelich.de",
+            "@type": "Person",
+            "email": "m.hanke@fz-juelich.de",
+            "name": " Michael Hanke",
+            "givenName": "Michael",
+            "familyName": "Hanke",
+            "sameAs": "0000-0001-6398-6370"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#m.hoenig@fz-juelich.de",
+            "@type": "Person",
+            "email": "m.hoenig@fz-juelich.de",
+            "name": " Merle H\u00f6nig",
+            "givenName": "Merle",
+            "familyName": "H\u00f6nig"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#dirk.isbrandt@uni-koeln.de",
+            "@type": "Person",
+            "email": "dirk.isbrandt@uni-koeln.de",
+            "name": " Dirk Isbrandt",
+            "givenName": "Dirk",
+            "familyName": "Isbrandt"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#k.ito@uni-koeln.de",
+            "@type": "Person",
+            "email": "k.ito@uni-koeln.de",
+            "name": " Kei Ito",
+            "givenName": "Kei",
+            "familyName": "Ito"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#frank.jessen@uk-koeln.de",
+            "@type": "Person",
+            "email": "frank.jessen@uk-koeln.de",
+            "name": " Frank Jessen",
+            "givenName": "Frank",
+            "familyName": "Jessen"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#peter.kloppenburg@uni-koeln.de",
+            "@type": "Person",
+            "email": "peter.kloppenburg@uni-koeln.de",
+            "name": " Peter Kloppenburg",
+            "givenName": "Peter",
+            "familyName": "Kloppenburg"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#natalia.kononenko@uk-koeln.de",
+            "@type": "Person",
+            "email": "natalia.kononenko@uk-koeln.de",
+            "name": " Natalia Kononenko",
+            "givenName": "Natalia",
+            "familyName": "Kononenko"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#k.konrad@fz-juelich.de",
+            "@type": "Person",
+            "email": "k.konrad@fz-juelich.de",
+            "name": " Kerstin Konrad",
+            "givenName": "Kerstin",
+            "familyName": "Konrad"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#Tatiana.Korotkova@uk-koeln.de",
+            "@type": "Person",
+            "email": "Tatiana.Korotkova@uk-koeln.de",
+            "name": " Tatiana Korotkova",
+            "givenName": "Tatiana",
+            "familyName": "Korotkova"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#p.mengotti@fz-juelich.de",
+            "@type": "Person",
+            "email": "p.mengotti@fz-juelich.de",
+            "name": " Paola Mengotti",
+            "givenName": "Paola",
+            "familyName": "Mengotti"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#mnawrot@uni-koeln.de",
+            "@type": "Person",
+            "email": "mnawrot@uni-koeln.de",
+            "name": " Martin Nawrot",
+            "givenName": "Martin",
+            "familyName": "Nawrot",
+            "sameAs": "0000-0001-6398-6370"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#nitschr@uni-muenster.de",
+            "@type": "Person",
+            "email": "nitschr@uni-muenster.de",
+            "name": " Robert Nitsch",
+            "givenName": "Robert",
+            "familyName": "Nitsch"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#roeper@em.uni-frankfurt.de",
+            "@type": "Person",
+            "email": "roeper@em.uni-frankfurt.de",
+            "name": " Jochen Roeper",
+            "givenName": "Jochen",
+            "familyName": "Roeper"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#adele.rueger@uk-koeln.de",
+            "@type": "Person",
+            "email": "adele.rueger@uk-koeln.de",
+            "name": " Adele Rueger",
+            "givenName": "Adele",
+            "familyName": "Rueger"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#michael.schroeter@uk-koeln.de",
+            "@type": "Person",
+            "email": "michael.schroeter@uk-koeln.de",
+            "name": " Michael Schroeter",
+            "givenName": "Michael",
+            "familyName": "Schroeter"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#tittgemeyer@sf.mpg.de",
+            "@type": "Person",
+            "email": "tittgemeyer@sf.mpg.de",
+            "name": " Marc Tittgemeyer",
+            "givenName": "Marc",
+            "familyName": "Tittgemeyer"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#thilo.van-eimeren@uk-koeln.de",
+            "@type": "Person",
+            "email": "thilo.van-eimeren@uk-koeln.de",
+            "name": " Thilo van Eimeren",
+            "givenName": "Thilo",
+            "familyName": "van Eimeren"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#veerle.visser-vandewalle@uk-koeln.de",
+            "@type": "Person",
+            "email": "veerle.visser-vandewalle@uk-koeln.de",
+            "name": " Veerle Visser-vandewalle",
+            "givenName": "Veerle",
+            "familyName": "Visser-vandewalle"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#s.vossel@fz-juelich.de",
+            "@type": "Person",
+            "email": "s.vossel@fz-juelich.de",
+            "name": " Simone Vossel",
+            "givenName": "Simone",
+            "familyName": "Vossel"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#p.h.weiss@fz-juelich.de",
+            "@type": "Person",
+            "email": "p.h.weiss@fz-juelich.de",
+            "name": " Peter Weiss-Blankenhorn",
+            "givenName": "Peter",
+            "familyName": "Weiss-Blankenhorn"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#brunhilde.wirth@uk-koeln.de",
+            "@type": "Person",
+            "email": "brunhilde.wirth@uk-koeln.de",
+            "name": " Brunhilde Wirth",
+            "givenName": "Brunhilde",
+            "familyName": "Wirth"
+        }
+    ],
+    "keywords": [
+        "Motor control",
+        "Health",
+        "Disease",
+        "Genetic",
+        "Cellular",
+        "Systems",
+        "Neural",
+        "Networks",
+        "Animals",
+        "Humans"
+    ],
+    "funding": [],
+    "publications": [],
+    "subdatasets": [
+        {
+            "dataset_id": "88cbc6bc-cce5-45b7-9066-4e3650fbb5ea",
+            "dataset_version": "8ef196a7c454cae6f260ac3071d716f5955133fa",
+            "dataset_path": "Externally-Cued-Movements",
+            "dirs_from_path": [
+                "Externally-Cued-Movements"
+            ]
+        },
+        {
+            "dataset_id": "cfce0015-8a8d-44ab-a746-73ec59e8f177",
+            "dataset_version": "366affdbbfa850fe8210c9fb15c718ccb0f3f34f",
+            "dataset_path": "Simulating-SNN-cost-with-GeNN-NEST",
+            "dirs_from_path": [
+                "Simulating-SNN-cost-with-GeNN-NEST"
+            ]
+        },
+        {
+            "dataset_id": "37900fa9-2d95-43b4-b223-51ff6ca0da70",
+            "dataset_version": "afc8520baf7c502f10e56810b31ee17c5c4ac80e",
+            "dataset_path": "Transdural-recordings-M1-monkey",
+            "dirs_from_path": [
+                "Transdural-recordings-M1-monkey"
+            ]
+        }
+    ],
+    "extractors_used": [
+        {
+            "extractor_name": "metalad_studyminimeta",
+            "extractor_version": "0.1",
+            "extraction_parameter": {},
+            "extraction_time": 1653384969.7431328,
+            "agent_name": "Stephan Heunis",
+            "agent_email": "s.heunis@fz-juelich.de"
+        }
+    ]
+}

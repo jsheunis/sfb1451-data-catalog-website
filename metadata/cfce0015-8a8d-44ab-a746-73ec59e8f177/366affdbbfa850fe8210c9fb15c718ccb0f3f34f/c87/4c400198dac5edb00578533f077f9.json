@@ -1,0 +1,141 @@
+{
+    "dataset_id": "cfce0015-8a8d-44ab-a746-73ec59e8f177",
+    "dataset_version": "366affdbbfa850fe8210c9fb15c718ccb0f3f34f",
+    "type": "dataset",
+    "children": [],
+    "name": "Simulation cost data of large scale spiking neural networks with GeNN and NEST",
+    "short_name": "Simulation cost data of large scale spiking neural networks with GeNN and NEST",
+    "description": "This dataset aims to quantify fixed and variable simulation costs on different hardware configurations for biologically realistic modeling of nervous system function with Spiking neural networks (SNN). The systematic calibration for multiple free model parameters to achieve robust network function demands high computing power and large memory resources. Special requirements arise from closed-loop model simulation in virtual environments, and from real-time simulation in robotic application. This dataset allows comparing two complementary approaches to efficient large scale and real-time SNN simulation. The widely used NEural Simulation Technology (NEST) parallelizes simulation across multiple CPU cores. The GPU-enhanced Neural Network (GeNN) simulator uses the highly parallel GPU-based architecture to gain simulation speed. The dataset also includes data of a benchmark model: a spiking cortical attractor network with a topology of densely connected excitatory and inhibitory neuron clusters.",
+    "doi": "",
+    "url": ["https://github.com/jsheunis/Simulating-SNN-cost-with-GeNN-NEST"],
+    "license": {},
+    "authors": [
+        {
+            "@id": "https://schema.datalad.org/person#a@example.com",
+            "@type": "Person",
+            "email": "a@example.com",
+            "name": " Felix Johannes Schmitt",
+            "givenName": "Felix Johannes",
+            "familyName": "Schmitt",
+            "sameAs": "0000-0002-5902-9372"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#b@example.com",
+            "@type": "Person",
+            "email": "b@example.com",
+            "name": " Vahid Rostami",
+            "givenName": "Vahid",
+            "familyName": "Rostami",
+            "sameAs": "0000-0002-3851-0220"
+        },
+        {
+            "@id": "https://schema.datalad.org/person#mnawrot@uni-koeln.de",
+            "@type": "Person",
+            "email": "mnawrot@uni-koeln.de",
+            "name": " Martin Nawrot",
+            "givenName": "Martin",
+            "familyName": "Nawrot",
+            "sameAs": "0000-0001-6398-6370"
+        }
+    ],
+    "keywords": [
+        "Spiking neural networks",
+        "NEST",
+        "GeNN",
+        "CPU",
+        "GPU",
+        "Parallel computing",
+        "Simulation",
+        "Costs",
+        "Benchmark"
+    ],
+    "funding": [
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-SFB 1451 (Project-ID 431549029)",
+            "description": "-"
+        },
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-RTG 1960, grant no. 233886668",
+            "description": "Research training group Neural Circuit Analysis"
+        }
+    ],
+    "publications": [
+        {
+            "type": "ScholarlyArticle",
+            "title": "Efficient parameter calibration and real-time simulation of large scale spiking neural networks with GeNN and NEST",
+            "doi": "https://doi.org/10.1101/2022.05.13.491646",
+            "datePublished": 2022,
+            "publicationOutlet": "bioRxiv",
+            "authors": [
+                {
+                    "@id": "https://schema.datalad.org/person#a@example.com",
+                    "@type": "Person",
+                    "email": "a@example.com",
+                    "name": " Felix Johannes Schmitt",
+                    "givenName": "Felix Johannes",
+                    "familyName": "Schmitt",
+                    "sameAs": "0000-0002-5902-9372"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#b@example.com",
+                    "@type": "Person",
+                    "email": "b@example.com",
+                    "name": " Vahid Rostami",
+                    "givenName": "Vahid",
+                    "familyName": "Rostami",
+                    "sameAs": "0000-0002-3851-0220"
+                },
+                {
+                    "@id": "https://schema.datalad.org/person#mnawrot@uni-koeln.de",
+                    "@type": "Person",
+                    "email": "mnawrot@uni-koeln.de",
+                    "name": " Martin Nawrot",
+                    "givenName": "Martin",
+                    "familyName": "Nawrot",
+                    "sameAs": "0000-0001-6398-6370"
+                }
+            ]
+        }
+    ],
+    "additional_display": [
+        {
+            "name": "CRC1451",
+            "icon": "fas fa-microscope",
+            "content": {
+                "Species": "Simulation",
+                "Paradigm": "Spiking Neural Networks",
+                "Condition": "n/a",
+                "Data modalities": "n/a",
+                "Model": "GeNN vs NEST",
+                "Subjects": "n/a"
+            }
+        }
+    ],
+    "top_display": [
+        {
+            "name": "Species",
+            "value": "Simulation"
+        },
+        {
+            "name": "Paradigm",
+            "value": "Spiking Neural Networks"
+        },
+        {
+            "name": "Model",
+            "value": "GeNN vs NEST"
+        }
+    ],
+    "subdatasets": [],
+    "extractors_used": [
+        {
+            "extractor_name": "metalad_studyminimeta",
+            "extractor_version": "0.1",
+            "extraction_parameter": {},
+            "extraction_time": 1653385029.7300658,
+            "agent_name": "Stephan Heunis",
+            "agent_email": "s.heunis@fz-juelich.de"
+        }
+    ]
+}
