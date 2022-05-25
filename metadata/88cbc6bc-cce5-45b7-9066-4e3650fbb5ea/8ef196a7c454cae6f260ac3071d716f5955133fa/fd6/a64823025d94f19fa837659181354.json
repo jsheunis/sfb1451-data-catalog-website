@@ -654,10 +654,6 @@
             "value": "Ageing"
         },
         {
-            "name": "Condition",
-            "value": "Ageing"
-        },
-        {
             "name": "Data modalities",
             "value": "EEG"
         },
