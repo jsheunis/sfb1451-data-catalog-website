@@ -470,6 +470,11 @@
     ],
     "funding": [
         {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-SFB 1451 (Project-ID 431549029)",
+            "description": "-"
+        },
+        {
             "name": "Cologne Emerging Group Initiative",
             "identifier": "Grant/Award Number CONNECT",
             "description": "-"
