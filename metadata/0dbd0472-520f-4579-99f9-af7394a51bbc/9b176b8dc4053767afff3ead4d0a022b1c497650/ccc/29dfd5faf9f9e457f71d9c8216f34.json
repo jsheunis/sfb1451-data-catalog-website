@@ -1,0 +1,80 @@
+{
+    "dataset_id": "0dbd0472-520f-4579-99f9-af7394a51bbc",
+    "dataset_version": "9b176b8dc4053767afff3ead4d0a022b1c497650",
+    "type": "dataset",
+    "children": [
+        {
+            "type": "dataset",
+            "name": "AIDAqc-code",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d"
+        },
+        {
+            "type": "dataset",
+            "name": "AIDAqc_test_data",
+            "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+            "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5"
+        }
+    ],
+    "name": "Atlas-based Imaging Data Analysis pipeline for QC of Animal MRI (AIDAqc)",
+    "short_name": "Atlas-based Imaging Data Analysis pipeline for QC of Animal MRI (AIDAqc)",
+    "description": "It can be challenging to acquire MR images of consistent quality or to decide in the screening of large databases, which dataset is of sufficient quality for further processing. Manual screening without quantitative criteria is strictly user-dependent and not feasible for huge databases. In contrast to clinical MRI, in preclinical, animal imaging, there is no consensus on standardization of quality control measures or categorization of good vs. bad quality images. The Atlas-based Processing Pipeline for for Quality Control of Animal MRI Data(AIDAqc) was developed for measuring ans standardizing the quality of mouse brain MRI in a dynamic and novel way. AIDAqc works with T2-weighted MRI (T2w), diffusion weighted MRI or diffusion tensor imaging (DTI) and resting-state functional MRI (fMRI). Here, we developed a tool in Python to create a basic overview about MR image datasets including information about the SNR, temporal SNR, spatial resolution, and movement severity. Currently this tool covers T2w, DWI, and fMRI sequences. This dataset contains AIDAqc code and test data.",
+    "doi": "",
+    "url": [
+        "ssh://git@github.com/~/mslw/AIDAqc-dataset.git"
+    ],
+    "license": {},
+    "authors": [
+        {
+            "name": "Aref Kalantari Sarcheshmeh",
+            "email": "aref.kalantari-sarcheshmeh@uk-koeln.de"
+        },
+        {
+            "name": "Micha\u0142 Szczepanik",
+            "email": "m.szczepanik@fz-juelich.de"
+        }
+    ],
+    "keywords": [
+        "Neuroscience",
+        "Animal MRI",
+        "Quality Control",
+        "Mouse",
+        "Stroke"
+    ],
+    "funding": [
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-SFB 1451 (Project-ID 431549029)",
+            "description": ""
+        }
+    ],
+    "publications": [],
+    "subdatasets": [
+        {
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "dataset_path": "AIDAqc-code",
+            "dirs_from_path": [
+                "AIDAqc-code"
+            ]
+        },
+        {
+            "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+            "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5",
+            "dataset_path": "AIDAqc_test_data",
+            "dirs_from_path": [
+                "AIDAqc_test_data"
+            ]
+        }
+    ],
+    "extractors_used": [
+        {
+            "extractor_name": "metalad_core",
+            "extractor_version": "1",
+            "extraction_parameter": {},
+            "extraction_time": 1653658402.868485,
+            "agent_name": "Micha\u0142 Szczepanik",
+            "agent_email": "m.szczepanik@fz-juelich.de"
+        }
+    ]
+}

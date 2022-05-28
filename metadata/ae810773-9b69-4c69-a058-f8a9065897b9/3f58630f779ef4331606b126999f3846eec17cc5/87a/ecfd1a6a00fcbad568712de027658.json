@@ -1,0 +1,111 @@
+{
+    "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+    "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5",
+    "type": "dataset",
+    "children": [
+        {
+            "type": "directory",
+            "name": "MRI_raw_data",
+            "path": "MRI_raw_data",
+            "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+            "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5"
+        },
+        {
+            "type": "file",
+            "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+            "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5",
+            "path": "LICENSE",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653659627.4734175,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 6894,
+            "name": "LICENSE"
+        },
+        {
+            "type": "file",
+            "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+            "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5",
+            "path": "README.md",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653662253.655024,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 596,
+            "name": "README.md"
+        },
+        {
+            "type": "file",
+            "dataset_id": "ae810773-9b69-4c69-a058-f8a9065897b9",
+            "dataset_version": "3f58630f779ef4331606b126999f3846eec17cc5",
+            "path": "datacite.yml",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653662253.6680653,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 554,
+            "name": "datacite.yml"
+        }
+    ],
+    "name": "AIDAqc test data",
+    "short_name": "AIDAqc test data",
+    "description": "Test data for MRI mouse brain quality control analysis using AIDAconnect",
+    "doi": "",
+    "url": [
+        "ssh://git@gin.g-node.org/msz/AIDAqc_test_data.git"
+    ],
+    "license": {
+        "name": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "authors": [
+        {
+            "name": "Aref Kalantari Sarcheshmeh",
+            "email": "aref.kalantari-sarcheshmeh@uk-koeln.de"
+        },
+        {
+            "name": "Micha\u0142 Szczepanik",
+            "email": "m.szczepanik@fz-juelich.de"
+        }
+    ],
+    "keywords": [
+        "Neuroscience",
+        "MRI",
+        "Stroke",
+        "Quality Control"
+    ],
+    "funding": [],
+    "publications": [],
+    "subdatasets": [],
+    "extractors_used": [
+        {
+            "extractor_name": "metalad_core",
+            "extractor_version": "1",
+            "extraction_parameter": {},
+            "extraction_time": 1653659323.800144,
+            "agent_name": "Micha\u0142 Szczepanik",
+            "agent_email": "m.szczepanik@fz-juelich.de"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+    "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+    "type": "dataset",
+    "children": [
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "ParsingAllrawData.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658929.8770828,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 6489,
+            "name": "ParsingAllrawData.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "MI.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658929.8883724,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 1047,
+            "name": "MI.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "AIDAqc_help_v1_1.pdf",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658929.9386454,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 2895807,
+            "name": "AIDAqc_help_v1_1.pdf"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "CheckingFeatures_final.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658929.9522674,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 2394,
+            "name": "CheckingFeatures_final.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "README.md",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658929.958242,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 1158,
+            "name": "README.md"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "pv_parser.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658930.014647,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 13230,
+            "name": "pv_parser.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "pv_reader.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658930.0274959,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 19653,
+            "name": "pv_reader.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "QCPlotting.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658930.0415413,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 1353,
+            "name": "QCPlotting.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "QC.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658930.0435085,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 18800,
+            "name": "QC.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "changSNR.py",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658930.070995,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 1899,
+            "name": "changSNR.py"
+        },
+        {
+            "type": "file",
+            "dataset_id": "d510b820-8d16-448b-8fb6-8bc9a01bb72f",
+            "dataset_version": "5fd8c889853952bfb7946672e5f7748b22fd876d",
+            "path": "aidaqc.yaml",
+            "url": [],
+            "extractors_used": [
+                {
+                    "extractor_name": "metalad_core",
+                    "extractor_version": "1",
+                    "extraction_parameter": {},
+                    "extraction_time": 1653658930.0727592,
+                    "agent_name": "Micha\u0142 Szczepanik",
+                    "agent_email": "m.szczepanik@fz-juelich.de"
+                }
+            ],
+            "contentbytesize": 5791,
+            "name": "aidaqc.yaml"
+        }
+    ],
+    "name": "Atlas-based Imaging Data Analysis pipeline for QC of Animal MRI (AIDAqc)",
+    "short_name": "Atlas-based Imaging Data Analysis pipeline for QC of Animal MRI (AIDAqc)",
+    "description": "It can be challenging to acquire MR images of consistent quality or to decide in the screening of large databases, which dataset is of sufficient quality for further processing. Manual screening without quantitative criteria is strictly user-dependent and not feasible for huge databases. In contrast to clinical MRI, in preclinical, animal imaging, there is no consensus on standardization of quality control measures or categorization of good vs. bad quality images. The Atlas-based Processing Pipeline for for Quality Control of Animal MRI Data(AIDAqc) was developed for measuring ans standardizing the quality of mouse brain MRI in a dynamic and novel way. AIDAqc works with T2-weighted MRI (T2w), diffusion weighted MRI or diffusion tensor imaging (DTI) and resting-state functional MRI (fMRI). Here, we developed a tool in Python to create a basic overview about MR image datasets including information about the SNR, temporal SNR, spatial resolution, and movement severity. Currently this tool covers T2w, DWI, and fMRI sequences.",
+    "doi": "",
+    "url": [
+        "ssh://git@github.com/~/mslw/AIDAqc-code.git"
+    ],
+    "license": {},
+    "authors": [
+        {
+            "name": "Aref Kalantari Sarcheshmeh",
+            "email": "aref.kalantari-sarcheshmeh@uk-koeln.de"
+        },
+        {
+            "name": "Micha\u0142 Szczepanik",
+            "email": "m.szczepanik@fz-juelich.de"
+        }
+    ],
+    "keywords": [
+        "Neuroscience",
+        "Animal MRI",
+        "Quality Control",
+        "Mouse",
+        "Stroke"
+    ],
+    "funding": [
+        {
+            "name": "German Research Foundation (DFG)",
+            "identifier": "DFG-SFB 1451 (Project-ID 431549029)",
+            "description": ""
+        }
+    ],
+    "publications": [],
+    "subdatasets": [],
+    "extractors_used": [
+        {
+            "extractor_name": "metalad_core",
+            "extractor_version": "1",
+            "extraction_parameter": {},
+            "extraction_time": 1653658610.3579695,
+            "agent_name": "Micha\u0142 Szczepanik",
+            "agent_email": "m.szczepanik@fz-juelich.de"
+        }
+    ]
+}

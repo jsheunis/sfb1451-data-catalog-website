@@ -20,6 +20,12 @@
             "name": "Transdural-recordings-M1-monkey",
             "dataset_id": "37900fa9-2d95-43b4-b223-51ff6ca0da70",
             "dataset_version": "afc8520baf7c502f10e56810b31ee17c5c4ac80e"
+        },
+        {
+            "type": "dataset",
+            "name": "AIDAqc",
+            "dataset_id": "0dbd0472-520f-4579-99f9-af7394a51bbc",
+            "dataset_version": "9b176b8dc4053767afff3ead4d0a022b1c497650"
         }
     ],
     "name": "CRC1451 - key mechanisms of motor control in health and disease",
@@ -338,7 +344,16 @@
             "dirs_from_path": [
                 "Transdural-recordings-M1-monkey"
             ]
+        },
+        {
+            "dataset_id": "0dbd0472-520f-4579-99f9-af7394a51bbc",
+            "dataset_version": "9b176b8dc4053767afff3ead4d0a022b1c497650",
+            "dataset_path": "AIDAqc",
+            "dirs_from_path": [
+                "AIDAqc"
+            ]
         }
+
     ],
     "extractors_used": [
         {
