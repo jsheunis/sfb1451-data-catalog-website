@@ -190,11 +190,16 @@ const datasetView = {
         disp_dataset.download_filename = 'dataset_' + disp_dataset.id_and_version + '.json'
         // URL
         disp_dataset.is_github = false; // Github / gitlab / url / binder
+        disp_dataset.is_gin = false; // GIN
         disp_dataset.is_gitlab = false; // Github / gitlab / url / binder
         disp_dataset.url = ''
         for (var i = 0; i < dataset.url.length; i++) { 
           if (dataset.url[i].toLowerCase().indexOf("github") >= 0) {
             disp_dataset.is_github = true;
+            disp_dataset.url = dataset.url[i];
+          }
+          if (dataset.url[i].toLowerCase().indexOf("gin.g-node") >= 0) {
+            disp_dataset.is_gin = true;
             disp_dataset.url = dataset.url[i];
           }
         }
