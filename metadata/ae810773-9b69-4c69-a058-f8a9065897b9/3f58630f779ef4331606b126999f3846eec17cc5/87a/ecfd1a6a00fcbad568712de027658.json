@@ -73,7 +73,7 @@
     "description": "Test data for MRI mouse brain quality control analysis using AIDAconnect",
     "doi": "",
     "url": [
-        "ssh://git@gin.g-node.org/msz/AIDAqc_test_data.git"
+        "https://gin.g-node.org/arefks/AIDAqc_test_data"
     ],
     "license": {
         "name": "CC BY-NC-SA 4.0",
@@ -81,12 +81,12 @@
     },
     "authors": [
         {
-            "name": "Aref Kalantari Sarcheshmeh",
+            "name": "Aref Kalantari",
             "email": "aref.kalantari-sarcheshmeh@uk-koeln.de"
         },
         {
-            "name": "Micha\u0142 Szczepanik",
-            "email": "m.szczepanik@fz-juelich.de"
+            "name": "Markus Aswendt",
+            "email": "markus.aswendt@uk-koeln.de"
         }
     ],
     "keywords": [
